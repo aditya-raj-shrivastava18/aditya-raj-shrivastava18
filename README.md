@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-![css](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=brown)
+![HTML](https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=HTML&logoColor=yellow)
+![css](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=blue)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditya-raj-shrivastava18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
